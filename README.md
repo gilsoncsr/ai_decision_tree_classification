@@ -1,7 +1,3 @@
-Here's the README for your application in English, Spanish, and Portuguese:
-
----
-
 # Customer Segmentation Model
 
 ## English
@@ -15,6 +11,16 @@ Key Features:
 - **Hyperparameter Tuning**: Using Optuna to optimize the model's hyperparameters.
 - **Cross-validation**: Evaluating model performance using cross-validation.
 - **Prediction App**: A batch prediction app allowing users to upload CSV files and get predictions for customer segments.
+
+1. Clone Repo
+
+2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run Jupyter notebook
 
 ## Español
 
